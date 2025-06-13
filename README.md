@@ -45,6 +45,17 @@ Este Mini  projeto demonstra como consumir uma API pública para coletar dados d
 | `timestamp`   | Data/hora da cotação (convertida de UNIX para formato legível)           |
 
 ---
+| Indicador                  | O que observamos no gráfico                        |
+| -------------------------- | -------------------------------------------------- |
+| `bid` e `ask`              | Tendência de queda leve, dólar desvalorizando      |
+| `high` e `low`             | Pouca volatilidade, com variações contidas         |
+| `pctChange`                | Maioria das variações foram **negativas**          |
+| Estabilidade geral         | Sem grandes picos ou quedas bruscas                |
+| Valor atual (último ponto) | Mostra o momento mais recente da cotação analisada |
+
+Ao analisar a cotação do dólar dos últimos 10 dias com dados da AwesomeAPI, observei uma leve desvalorização da moeda americana.
+As cotações de compra e venda mostraram uma tendência de queda discreta. A variação percentual negativa predominou, indicando que o dólar fechou abaixo do valor do dia anterior na maioria dos dias.
+A volatilidade (diferença entre máxima e mínima) foi moderada, sem grandes oscilações, sugerindo um período de estabilidade relativa no câmbio.
 
 ## 📈 Visualização Gráfica
 
