@@ -1,6 +1,8 @@
-# 📊 Análise da Cotação do Dólar via API Pública (AwesomeAPI)
+# Mini Projeto para prática
 
-Este projeto demonstra como consumir uma API pública para coletar dados da cotação do dólar (USD/BRL), tratar os dados com Python e visualizar os principais indicadores econômicos usando gráficos.
+# 📊 Análise da Cotação do Dólar via API Pública (AwesomeAPI) 
+
+Este Mini  projeto demonstra como consumir uma API pública para coletar dados da cotação do dólar (USD/BRL), tratar os dados com Python e visualizar os principais indicadores econômicos usando gráficos.
 
 ---
 
@@ -54,7 +56,5 @@ O projeto gera um gráfico com as linhas representando cada métrica acima. A li
 
 ---
 
-## 📤 Exportação dos Dados
 
-Os dados tratados são salvos em um arquivo `.csv` com a seguinte linha de código:
 
